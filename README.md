@@ -1,16 +1,20 @@
-### Hi there 👋 
+### Olá, me chamo Maxwell, bem-vindo(a) ao meu perfil!
 
-<!--
-**MaxFerreiraA/MaxFerreiraA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=purple)](https://www.linkedin.com/in/maxwell-ferreira-b2a9a51b1/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=purple)](https://www.instagram.com/max_ferreira_araujo/)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=purple)](https://discord.com/channels/Max_Ferreira#6641)
 
-Here are some ideas to get you started:
+#- 📚 Residente em TIC/Software Serratec
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#- 💻 Futuro desenvolvedor FullStack 
+
+#- 🌱 Atualmente estou estudando bancos de dados relacionais utilizando PostgreSQL e DBeaver
+
+![MaxFerreiraA GitHub stats](https://github-readme-stats.vercel.app/api?username=MaxFerreiraA&show_icons=true&theme=tokyonight) 
+
+![snake gif](https://github.com/MaxFerreiraA/MaxFerreiraA/blob/output/github-contribution-grid-snake.svg)
+
+
+
+
+
