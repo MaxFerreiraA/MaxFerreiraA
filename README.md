@@ -8,7 +8,7 @@
 
 #- 💻 Futuro desenvolvedor FullStack 
 
-#- 🌱 Atualmente estou estudando Programação Orientada a Objetos(POO) utilizando Java no Eclipse.
+#- 🌱 Atualmente estou estudando FrontEnd essencial utilizando Html 5, Css 3 e JavaScript
 
 ![MaxFerreiraA GitHub stats](https://github-readme-stats.vercel.app/api?username=MaxFerreiraA&show_icons=true&theme=tokyonight)
 <div><img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxFerreiraA&theme=tokyonight&langs_count=8&layout=compact&hide_border=true" /></div>
