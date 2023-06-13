@@ -10,9 +10,6 @@
 
 #- 🌱 Atualmente estou estudando desenvolvimento Web
 
-![MaxFerreiraA GitHub stats](https://github-readme-stats.vercel.app/api?username=MaxFerreiraA&show_icons=true&theme=tokyonight)
-<div><img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxFerreiraA&theme=tokyonight&langs_count=8&layout=compact&hide_border=true" /></div>
-
 ![snake gif](https://github.com/MaxFerreiraA/MaxFerreiraA/blob/output/github-contribution-grid-snake.svg)
 
 
