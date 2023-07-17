@@ -8,7 +8,7 @@
 
 #- 💻 Futuro desenvolvedor FullStack 
 
-#- 🌱 Atualmente estou estudando desenvolvimento Mobile
+#- 🌱 Atualmente estou utilizando meus conhecimentos em um projeto aplicado proposto pela minha instituição de ensino!
 
 ![snake gif](https://github.com/MaxFerreiraA/MaxFerreiraA/blob/output/github-contribution-grid-snake.svg)
 
